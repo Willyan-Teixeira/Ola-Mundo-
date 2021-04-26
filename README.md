@@ -1,4 +1,4 @@
 # Ola Mundo 
  Primeiro repositorio versinado
 
- repositorio criado durante uma aula aovivo
+ repositorio criado durante uma aula ao vivo
